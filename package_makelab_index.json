@@ -9,7 +9,7 @@
         {
           "name": "ArduLab",
           "architecture": "avr",
-          "verion": "0.0",
+          "verion": "1.0",
           "category": "Contributed",
           "help": {
             "online": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
