@@ -14,9 +14,9 @@
             "online": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           },
           "url": "insert ZIP URL here",
-          "archiveFileName": "avr-1.6.6.tar.bz2",
-          "checksum": "SHA-256:08ad5db4978ebea22344edc5d77dce0923d8a644da7a14dc8072e883c76058d8",
-          "size": "4876916",
+          "archiveFileName": "ArduLab Definitions v0.0.zip",
+          "checksum": "SHA-256:c3a67d7a651ad77c347847c86849ecf4f3b19c703cc6b9872f6d7e982fe7a9d5",
+          "size": "5594666",
           "boards": [
             {
               "name": "ArduLab"
