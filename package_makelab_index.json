@@ -5,6 +5,9 @@
       "maintainer": "MakeLab Israel",
       "websiteURL": "https://www.makelab.org.il/",
       "email": "MakeLabIsrael@gmail.com",
+      "help": {
+        "online": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      },
       "platforms": [
         {
           "name": "ArduLab",
