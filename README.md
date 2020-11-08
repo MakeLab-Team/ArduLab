@@ -2,7 +2,7 @@
 Board Definition and documentation for the ArduLab, an Arduino-Compatible board
 
 ## Specifications
-| Specifications |
+|  |  |
 | --------------- | ---------- |
 | Microcontroller | ATMega328p |
 | Operating Voltage | 5v |
