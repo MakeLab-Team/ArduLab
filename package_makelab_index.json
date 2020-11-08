@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "MakeLab Arduino-Compatible boards",
+      "name": "MakeLab",
       "maintainer": "MakeLab Israel",
       "websiteURL": "https://www.makelab.org.il/",
       "email": "MakeLabIsrael@gmail.com",
@@ -12,13 +12,13 @@
         {
           "name": "ArduLab",
           "architecture": "avr",
-          "version": "1.0",
+          "version": "1.0.0",
           "category": "Contributed",
           "help": {
             "online": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           },
           "url": "https://github.com/MakeLab-Team/ArduLab/raw/main/ardulab_definitions_v0.0.zip",
-          "archiveFileName": "ardulab_definitions_v0.0.zip",
+          "archiveFileName": "ardulab_definitions_v1.0.0.zip",
           "checksum": "SHA-256:c3a67d7a651ad77c347847c86849ecf4f3b19c703cc6b9872f6d7e982fe7a9d5",
           "size": "5594666",
           "boards": [
