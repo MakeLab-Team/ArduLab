@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "ArduLab",
+      "name": "MakeLab Arduino-Compatible boards",
       "maintainer": "MakeLab Israel",
       "websiteURL": "https://www.makelab.org.il/",
       "email": "MakeLabIsrael@gmail.com",
