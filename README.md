@@ -1,5 +1,7 @@
 # ArduLab
-Board Definition and documentation for the ArduLab, an Arduino-Compatible board
+- made by MakeLab Israel. 
+
+Board Definition and documentation for the ArduLab, an Arduino-Compatible board. 
 
 ## Specifications
 |  |  |
