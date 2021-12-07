@@ -1,0 +1,35 @@
+# See: http://code.google.com/p/arduino/wiki/Platforms
+
+#menu.cpu=Processor
+
+######################################################
+
+ardulab.name=ArduLab
+
+ardulab.upload.tool=avrdude
+ardulab.upload.protocol=arduino
+ardulab.upload.speed=115200
+
+ardulab.bootloader.tool=avrdude
+ardulab.bootloader.unlock_bits=0x3F
+ardulab.bootloader.lock_bits=0x0F
+
+ardulab.build.f_cpu=16000000L
+ardulab.build.board=AVR_NANO
+ardulab.build.core=arduino:arduino
+ardulab.build.variant=ardulab
+
+## ArduLab w/ ATmega328P
+## --------------------------
+ardulab.menu.cpu.atmega328=ATmega328P
+
+ardulab.menu.cpu.atmega328.upload.maximum_size=30720
+ardulab.menu.cpu.atmega328.upload.maximum_data_size=2048
+ardulab.menu.cpu.atmega328.upload.speed=115200
+
+ardulab.menu.cpu.atmega328.bootloader.low_fuses=0xFF
+ardulab.menu.cpu.atmega328.bootloader.high_fuses=0xDA
+ardulab.menu.cpu.atmega328.bootloader.extended_fuses=0xFD
+ardulab.menu.cpu.atmega328.bootloader.file=optiboot/optiboot_atmega328.hex
+
+ardulab.menu.cpu.atmega328.build.mcu=atmega328p
