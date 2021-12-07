@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/MakeLab-Team/ArduLab/raw/main/ardulab_definitions_v1.0.3.zip",
           "archiveFileName": "ardulab_definitions_v1.0.3.zip",
-          "checksum": "SHA-256:5f7083687d9f273068f5bb9dbf99d23b7238f8b8f67c8c5d252abac876e4fd80",
-          "size": "5515158",
+          "checksum": "SHA-256:924771ccc96336e2b51aafc11f05f6445be8a313b5b50ff187b4bbf084ed9705",
+          "size": "5545132",
           "boards": [
             {
               "name": "ArduLab"
