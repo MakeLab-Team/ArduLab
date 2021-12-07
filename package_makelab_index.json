@@ -12,15 +12,15 @@
         {
           "name": "ArduLab",
           "architecture": "avr",
-          "version": "1.0.1",
+          "version": "1.0.0",
           "category": "Contributed",
           "help": {
             "online": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           },
-          "url": "https://github.com/MakeLab-Team/ArduLab/raw/main/ardulab_definitions_v1.0.1.zip",
-          "archiveFileName": "ardulab_definitions_v1.0.1.zip",
-          "checksum": "SHA-256:32769df58008633561cf009c4cea7b5ca01007efec0d368a8ca633aee031da63",
-          "size": "5678299",
+          "url": "https://github.com/MakeLab-Team/ArduLab/raw/main/ardulab_definitions_v1.0.0.zip",
+          "archiveFileName": "ardulab_definitions_v1.0.0.zip",
+          "checksum": "SHA-256:5295e8eae747d8e9a950bfa4c91c70a4c154e5c8bc6ca093476b2238601e0a66",
+          "size": "5542920",
           "boards": [
             {
               "name": "ArduLab"
